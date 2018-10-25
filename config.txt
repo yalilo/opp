@@ -1,4 +1,4 @@
-token=process.env.7o7o
+token=NTA0OTkyMTQ1OTA4ODI2MTMy.DrNKHA.6PvQCLZiidBbKv19C-wjCr0umFM
 owner=474200581163057153
 prefix=1
 game=Type 1help |『乙ϗ乃』
